@@ -3,6 +3,8 @@ List:
 - [Top 8 Bike Caravans - Mobile Caravans for Camping #1](https://youtu.be/nf5SYpyWHLo)
 - [✅ TOP 5 BEST Bike Camper Trailer](https://youtu.be/aJAgn6YyhgE)
 
+index:
+- [Beautiful adventures with Wide Path Camper](https://youtu.be/hkqOyEI7Bmc)
 
 
 # inspire:
